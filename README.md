@@ -11,6 +11,10 @@ per kilogram of food produced.
 - **ggplot2** — data visualisation
 - **dplyr** — data manipulation
 
+- ## Visualisation
+
+![Food Carbon Footprint](Rplot.png)
+
 ## Key Findings
 - Beef produces the highest CO2 emissions (~60kg per kg of food)
 - Plant-based foods like lentils and bananas produce less than 1kg of CO2
